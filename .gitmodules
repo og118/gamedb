@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:ad451/GameDb-Server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:ad451/GameDb-Client.git
